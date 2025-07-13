@@ -1,6 +1,6 @@
 {
   "name": "gonative-ios",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "scripts": {
     "release": "./scripts/release.sh"
